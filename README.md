@@ -4,5 +4,7 @@ This is a Master Optical Flare Node for using in Blender Compositor. As it is a 
 https://goo.gl/S1PXH3
 # Tutorial:
 https://www.youtube.com/playlist?list=PLnAARr1S7jUgLMxCj7PKBBbbjUCXmuV3x
+for any discussion from thread is open at:https://goo.gl/YkA4HA
+
 # Special Thanks to
 Lens flare element pack by https://www.blendswap.com/blends/view/75869
